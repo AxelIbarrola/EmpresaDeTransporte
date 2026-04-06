@@ -125,6 +125,3 @@ Una empresa de transporte necesita gestionar distintos tipos de vehículos.
 - Se debe utilizar polimorfismo para recorrer el objeto.
     
 - Cada vehículo debe tener su propio comportamiento al avanzar.
-    
-
-**
