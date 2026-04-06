@@ -1,10 +1,6 @@
-**
-
 Una empresa de transporte necesita gestionar distintos tipos de vehículos.
 
-  
-
-VEHÍCULOS
+## VEHÍCULOS
 
   
 
@@ -17,7 +13,7 @@ VEHÍCULOS
 
   
 
-CARACTERÍSTICAS COMPARTIDAS
+## CARACTERÍSTICAS COMPARTIDAS
 
   
 
@@ -30,7 +26,7 @@ CARACTERÍSTICAS COMPARTIDAS
 
   
 
-ACCIÓN: AVANZAR CIERTA CANTIDAD DE KILÓMETROS
+## ACCIÓN: AVANZAR CIERTA CANTIDAD DE KILÓMETROS
 
   
 
@@ -44,7 +40,7 @@ ACCIÓN: AVANZAR CIERTA CANTIDAD DE KILÓMETROS
   
   
 
-OBJETIVOS
+## OBJETIVOS
 
   
 
@@ -58,7 +54,7 @@ OBJETIVOS
   
   
 
-CLASE ABSTRACTA: Vehículo
+## CLASE ABSTRACTA: Vehículo
 
   
 
@@ -71,16 +67,9 @@ CLASE ABSTRACTA: Vehículo
 - Un método abstracto
     
 - public abstract void avanzar (int km)
-    
-
-  
-  
-  
-  
-  
   
 
-CLASES HIJAS
+## CLASES HIJAS
 
   
 
@@ -92,13 +81,11 @@ CLASES HIJAS
     
 
   
-
-MÉTODO A IMPLEMENTAR EN CADA CLASE
+## MÉTODO A IMPLEMENTAR EN CADA CLASE
 
   
 
 - avanzar(int km)
-    
 
 - Descontar el combustible correspondiente según el consumo.
     
@@ -107,7 +94,7 @@ MÉTODO A IMPLEMENTAR EN CADA CLASE
 
   
 
-CLASE PRINCIPAL: main
+## CLASE PRINCIPAL: main
 
   
 
@@ -129,7 +116,7 @@ CLASE PRINCIPAL: main
 
   
 
-REQUISITOS IMPORTANTES
+## REQUISITOS IMPORTANTES
 
   
 
